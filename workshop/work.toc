@@ -1,0 +1,34 @@
+\contentsline {section}{\numberline {1}课题介绍}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}分子振动能级}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}课题内容}{1}{subsection.1.2}%
+\contentsline {section}{\numberline {2}理论分析}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}原理介绍}{2}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}\emph {Bohr}的定态能级假设}{2}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}原子核势能}{2}{subsubsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.2}理论生成}{3}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}简化模型}{3}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}理论生成}{4}{subsubsection.2.2.2}%
+\contentsline {section}{\numberline {3}数值计算}{6}{section.3}%
+\contentsline {subsection}{\numberline {3.1}计算思路}{6}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}计算实现}{6}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}\emph {Newton}迭代法解方程}{6}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}\emph {Romberg}积分}{9}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}猜解枚举法解不定方程}{12}{subsubsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.3}计算结果}{13}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}结果比较}{16}{subsection.3.4}%
+\contentsline {section}{\numberline {4}问题分析}{18}{section.4}%
+\contentsline {subsection}{\numberline {4.1}问题产生}{18}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}解决方案}{19}{subsection.4.2}%
+\contentsline {section}{\numberline {A}全部程序实现}{21}{appendix.a.A}%
+\contentsline {subsection}{\numberline {A.1}\emph {Lennard-Jones}势理论程序实现}{21}{subsection.a.A.1}%
+\contentsline {subsection}{\numberline {A.2}\emph {Morse}势理论程序实现}{25}{subsection.a.A.2}%
+\contentsline {section}{\numberline {B}图片结果输出}{30}{appendix.a.B}%
+\contentsline {subsection}{\numberline {B.1}$H_2$分子振动能级}{30}{subsection.a.B.1}%
+\contentsline {subsubsection}{\numberline {B.1.1}\emph {Lennard-Jones}势}{30}{subsubsection.a.B.1.1}%
+\contentsline {subsubsection}{\numberline {B.1.2}\emph {Morse}势}{31}{subsubsection.a.B.1.2}%
+\contentsline {subsection}{\numberline {B.2}$DH$分子振动能级}{32}{subsection.a.B.2}%
+\contentsline {subsubsection}{\numberline {B.2.1}\emph {Lennard-Jones}势}{32}{subsubsection.a.B.2.1}%
+\contentsline {subsubsection}{\numberline {B.2.2}\emph {Morse}势}{34}{subsubsection.a.B.2.2}%
+\contentsline {subsection}{\numberline {B.3}$O_2$分子振动能级}{35}{subsection.a.B.3}%
+\contentsline {subsubsection}{\numberline {B.3.1}\emph {Lennard-Jones}势}{35}{subsubsection.a.B.3.1}%
+\contentsline {subsubsection}{\numberline {B.3.2}\emph {Morse}势}{37}{subsubsection.a.B.3.2}%

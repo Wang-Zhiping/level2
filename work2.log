@@ -1,0 +1,2600 @@
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.10.30)  15 NOV 2021 17:59
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**work2
+(./work2.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14> (/usr/share/texlive/texmf-dist/tex/latex/ctex/ctexart.cls (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2020-02-14 L3 programming layer (loader) 
+ (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def
+File: l3backend-xdvipdfmx.def 2020-02-03 L3 backend support: xdvipdfmx
+\g__graphics_track_int=\count163
+\l__pdf_internal_box=\box45
+\g__pdf_backend_object_int=\count164
+\g__pdf_backend_annotation_int=\count165
+))
+Document Class: ctexart 2019/05/29 v2.4.16 Chinese adapter for class article (CTEX)
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2020-02-14 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count166
+\g__xparse_grabber_int=\count167
+\l__xparse_m_args_int=\count168
+\l__xparse_v_nesting_int=\count169
+) (/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2020-02-14 LaTeX2e option processing using LaTeX3 keys
+) (/usr/share/texlive/texmf-dist/tex/latex/ctex/ctexhook.sty
+Package: ctexhook 2019/05/29 v2.4.16 Document and package hooks (CTEX)
+) (/usr/share/texlive/texmf-dist/tex/latex/ctex/ctexpatch.sty
+Package: ctexpatch 2019/05/29 v2.4.16 Patching commands (CTEX)
+) (/usr/share/texlive/texmf-dist/tex/latex/base/fix-cm.sty
+Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+)) (/usr/share/texlive/texmf-dist/tex/latex/ms/everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\l__ctex_tmp_int=\count170
+\l__ctex_tmp_box=\box46
+\l__ctex_tmp_dim=\dimen134
+\g__ctex_section_depth_int=\count171
+\g__ctex_font_size_int=\count172
+ (/usr/share/texlive/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
+File: ctexopts.cfg 2019/05/29 v2.4.16 Option configuration file (CTEX)
+) (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count173
+\c@section=\count174
+\c@subsection=\count175
+\c@subsubsection=\count176
+\c@paragraph=\count177
+\c@subparagraph=\count178
+\c@figure=\count179
+\c@table=\count180
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen135
+) (/usr/share/texlive/texmf-dist/tex/latex/ctex/engine/ctex-engine-xetex.def
+File: ctex-engine-xetex.def 2019/05/29 v2.4.16 XeLaTeX adapter (CTEX)
+ (/usr/share/texlive/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
+Package: xeCJK 2020/02/14 v3.8.1 Typesetting CJK scripts with XeLaTeX
+ (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
+Package: xtemplate 2020-02-14 L3 Experimental prototype document functions
+\l__xtemplate_tmp_dim=\dimen136
+\l__xtemplate_tmp_int=\count181
+\l__xtemplate_tmp_muskip=\muskip16
+\l__xtemplate_tmp_skip=\skip49
+)
+\l__xeCJK_tmp_int=\count182
+\l__xeCJK_tmp_box=\box47
+\l__xeCJK_tmp_dim=\dimen137
+\l__xeCJK_tmp_skip=\skip50
+\g__xeCJK_space_factor_int=\count183
+\l__xeCJK_begin_int=\count184
+\l__xeCJK_end_int=\count185
+\c__xeCJK_CJK_class_int=\XeTeXcharclass1
+\c__xeCJK_FullLeft_class_int=\XeTeXcharclass2
+\c__xeCJK_FullRight_class_int=\XeTeXcharclass3
+\c__xeCJK_HalfLeft_class_int=\XeTeXcharclass4
+\c__xeCJK_HalfRight_class_int=\XeTeXcharclass5
+\c__xeCJK_NormalSpace_class_int=\XeTeXcharclass6
+\c__xeCJK_CM_class_int=\XeTeXcharclass7
+\c__xeCJK_HangulJamo_class_int=\XeTeXcharclass8
+\l__xeCJK_last_skip=\skip51
+\g__xeCJK_node_int=\count186
+\c__xeCJK_CJK_node_dim=\dimen138
+\c__xeCJK_CJK-space_node_dim=\dimen139
+\c__xeCJK_default_node_dim=\dimen140
+\c__xeCJK_default-space_node_dim=\dimen141
+\c__xeCJK_CJK-widow_node_dim=\dimen142
+\c__xeCJK_normalspace_node_dim=\dimen143
+\l__xeCJK_ccglue_skip=\skip52
+\l__xeCJK_ecglue_skip=\skip53
+\l__xeCJK_punct_kern_skip=\skip54
+\l__xeCJK_last_penalty_int=\count187
+\l__xeCJK_last_bound_dim=\dimen144
+\l__xeCJK_last_kern_dim=\dimen145
+\l__xeCJK_widow_penalty_int=\count188
+
+Package xtemplate Info: Declaring object type 'xeCJK/punctuation' taking 0
+(xtemplate)             argument(s) on line 2302.
+
+\l__xeCJK_fixed_punct_width_dim=\dimen146
+\l__xeCJK_mixed_punct_width_dim=\dimen147
+\l__xeCJK_middle_punct_width_dim=\dimen148
+\l__xeCJK_fixed_margin_width_dim=\dimen149
+\l__xeCJK_mixed_margin_width_dim=\dimen150
+\l__xeCJK_middle_margin_width_dim=\dimen151
+\l__xeCJK_bound_punct_width_dim=\dimen152
+\l__xeCJK_bound_margin_width_dim=\dimen153
+\l__xeCJK_margin_minimum_dim=\dimen154
+\l__xeCJK_kerning_total_width_dim=\dimen155
+\l__xeCJK_same_align_margin_dim=\dimen156
+\l__xeCJK_different_align_margin_dim=\dimen157
+\l__xeCJK_kerning_margin_width_dim=\dimen158
+\l__xeCJK_kerning_margin_minimum_dim=\dimen159
+\l__xeCJK_bound_dim=\dimen160
+\l__xeCJK_reverse_bound_dim=\dimen161
+\l__xeCJK_margin_dim=\dimen162
+\l__xeCJK_minimum_bound_dim=\dimen163
+\l__xeCJK_kerning_margin_dim=\dimen164
+\g__xeCJK_family_int=\count189
+\l__xeCJK_fam_int=\count190
+\g__xeCJK_fam_allocation_int=\count191
+\l__xeCJK_verb_case_int=\count192
+\l__xeCJK_verb_exspace_skip=\skip55
+ (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+Package: fontspec 2020/02/03 v2.7h Font selection for XeLaTeX and LuaLaTeX
+ (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2020/02/03 v2.7h Font selection for XeLaTeX and LuaLaTeX
+\l__fontspec_script_int=\count193
+\l__fontspec_language_int=\count194
+\l__fontspec_strnum_int=\count195
+\l__fontspec_tmp_int=\count196
+\l__fontspec_tmpa_int=\count197
+\l__fontspec_tmpb_int=\count198
+\l__fontspec_tmpc_int=\count199
+\l__fontspec_em_int=\count266
+\l__fontspec_emdef_int=\count267
+\l__fontspec_strong_int=\count268
+\l__fontspec_strongdef_int=\count269
+\l__fontspec_tmpa_dim=\dimen165
+\l__fontspec_tmpb_dim=\dimen166
+\l__fontspec_tmpc_dim=\dimen167
+ (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+) (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (/usr/share/texlive/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
+File: xeCJK.cfg 2020/02/14 v3.8.1 Configuration file for xeCJK package
+)) (/usr/share/texlive/texmf-dist/tex/xelatex/xecjk/xeCJKfntef.sty
+Package: xeCJKfntef 2020/02/14 v3.8.1 xeCJK font effect
+ (/usr/share/texlive/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box48
+\UL@hyphenbox=\box49
+\UL@skip=\skip56
+\UL@hook=\toks14
+\UL@height=\dimen168
+\UL@pe=\count270
+\UL@pixel=\dimen169
+\ULC@box=\box50
+Package: ulem 2019/11/18
+\ULdepth=\dimen170
+)
+\l__xeCJK_space_skip=\skip57
+\c__xeCJK_ulem-begin_node_dim=\dimen171
+\c__xeCJK_null_box=\box51
+\l__xeCJK_fntef_box=\box52
+\l__xeCJK_under_symbol_box=\box53
+\c__xeCJK_filll_skip=\skip58
+)
+\ccwd=\dimen172
+\l__ctex_ccglue_skip=\skip59
+)
+\l__ctex_ziju_dim=\dimen173
+ (/usr/share/texlive/texmf-dist/tex/latex/zhnumber/zhnumber.sty
+Package: zhnumber 2019/04/07 v2.7 Typesetting numbers with Chinese glyphs
+\l__zhnum_scale_int=\count271
+ (/usr/share/texlive/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
+File: zhnumber-utf8.cfg 2019/04/07 v2.7 Chinese numerals with UTF8 encoding
+))
+\l__ctex_heading_skip=\skip60
+ (/usr/share/texlive/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese-article.def
+File: ctex-scheme-chinese-article.def 2019/05/29 v2.4.16 Chinese scheme for article (CTEX)
+ (/usr/share/texlive/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg
+File: ctex-name-utf8.cfg 2019/05/29 v2.4.16 Caption with encoding UTF8 (CTEX)
+)) (/usr/share/texlive/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-fandol.def
+File: ctex-fontset-fandol.def 2019/05/29 v2.4.16 Fandol fonts definition (CTEX)
+
+
+Package fontspec Warning: Font "FandolSong-Regular" does not contain requested
+(fontspec)                Script "CJK".
+
+
+Package fontspec Info: Font family 'FandolSong-Regular(0)' created for font
+(fontspec)             'FandolSong-Regular' with options
+(fontspec)             [Script={CJK},Extension={.otf},BoldFont={FandolSong-Bold},ItalicFont={FandolKai-Regular}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[FandolSong-Regular.otf]/OT:language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[FandolSong-Bold.otf]/OT:language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[FandolKai-Regular.otf]/OT:language=dflt;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+
+)) (/usr/share/texlive/texmf-dist/tex/latex/ctex/config/ctex.cfg
+File: ctex.cfg 2019/05/29 v2.4.16 Configuration file (CTEX)
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip61
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen174
+)) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen175
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count272
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count273
+\leftroot@=\count274
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count275
+\DOTSCASE@=\count276
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box54
+\strutbox@=\box55
+\big@size=\dimen176
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count277
+\c@MaxMatrixCols=\count278
+\dotsspace@=\muskip17
+\c@parentequation=\count279
+\dspbrk@lvl=\count280
+\tag@help=\toks16
+\row@=\count281
+\column@=\count282
+\maxfields@=\count283
+\andhelp@=\toks17
+\eqnshift@=\dimen177
+\alignsep@=\dimen178
+\tagshift@=\dimen179
+\tagwidth@=\dimen180
+\totwidth@=\dimen181
+\lineht@=\dimen182
+\@envbody=\toks18
+\multlinegap=\skip62
+\multlinetaggap=\skip63
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+) (/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks20
+\thm@bodyfont=\toks21
+\thm@headfont=\toks22
+\thm@notefont=\toks23
+\thm@headpunct=\toks24
+\thm@preskip=\skip64
+\thm@postskip=\skip65
+\thm@headsep=\skip66
+\dth@everypar=\toks25
+) (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (/usr/share/texlive/texmf-dist/tex/latex/appendix/appendix.sty
+Package: appendix 2020/02/08 v1.2c extra appendix facilities
+\c@@pps=\count284
+\c@@ppsavesec=\count285
+\c@@ppsaveapp=\count286
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2019/07/24 v1.2d Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup6
+\symboldletters=\mathgroup7
+\symboldsymbols=\mathgroup8
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 209.
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks26
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 105.
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen183
+\Gin@req@width=\dimen184
+) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
+ (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+) (/usr/share/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+) (/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+)
+\@linkdim=\dimen185
+\Hy@linkcounter=\count287
+\Hy@pagecounter=\count288
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count289
+Package hyperref Info: Option `unicode' set `true' on input line 4421.
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2020/01/14 v7.00d Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Hyper figures OFF on input line 4547.
+Package hyperref Info: Link nesting OFF on input line 4552.
+Package hyperref Info: Hyper index ON on input line 4555.
+Package hyperref Info: Plain pages OFF on input line 4562.
+Package hyperref Info: Backreferencing OFF on input line 4567.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4800.
+\c@Hy@tempcnt=\count290
+ (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5159.
+\XeTeXLinkMargin=\dimen186
+ (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count291
+\Field@Width=\dimen187
+\Fld@charsize=\dimen188
+Package hyperref Info: Hyper figures OFF on input line 6430.
+Package hyperref Info: Link nesting OFF on input line 6435.
+Package hyperref Info: Hyper index ON on input line 6438.
+Package hyperref Info: backreferencing OFF on input line 6445.
+Package hyperref Info: Link coloring OFF on input line 6450.
+Package hyperref Info: Link coloring with OCG OFF on input line 6455.
+Package hyperref Info: PDF/A mode OFF on input line 6460.
+LaTeX Info: Redefining \ref on input line 6500.
+LaTeX Info: Redefining \pageref on input line 6504.
+ (/usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)
+\Hy@abspage=\count292
+\c@Item=\count293
+\c@Hfootnote=\count294
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2020/01/14 v7.00d Hyperref driver for XeTeX
+ (/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+)
+\pdfm@box=\box56
+\c@Hy@AnnotLevel=\count295
+\HyField@AnnotCount=\count296
+\Fld@listcount=\count297
+\c@bookmark@seq@number=\count298
+ (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+ (/usr/share/texlive/texmf-dist/tex/latex/atveryend/atveryend.sty
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+) (/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
+)
+\Hy@SectionHShift=\skip67
+) (/usr/share/texlive/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup9
+) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footers
+\f@nch@headwidth=\skip68
+\f@nch@O@elh=\skip69
+\f@nch@O@erh=\skip70
+\f@nch@O@olh=\skip71
+\f@nch@O@orh=\skip72
+\f@nch@O@elf=\skip73
+\f@nch@O@erf=\skip74
+\f@nch@O@olf=\skip75
+\f@nch@O@orf=\skip76
+) (/usr/share/texlive/texmf-dist/tex/latex/animate/animate.sty
+Package: animate 2019/12/03 PDF & SVG animations from files and inline graphics
+ (/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+ (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks27
+\XKV@tempa@toks=\toks28
+)
+\XKV@depth=\count299
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/ifdraft.sty
+Package: ifdraft 2016/05/16 v1.4 Detect class options draft and final (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count300
+\calc@Bcount=\count301
+\calc@Adimen=\dimen189
+\calc@Bdimen=\dimen190
+\calc@Askip=\skip77
+\calc@Bskip=\skip78
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count302
+\calc@Cskip=\skip79
+) (/usr/share/texlive/texmf-dist/tex/latex/zref/zref-abspage.sty
+Package: zref-abspage 2019/11/29 v2.28 Module abspage for zref (HO)
+ (/usr/share/texlive/texmf-dist/tex/latex/zref/zref-base.sty
+Package: zref-base 2019/11/29 v2.28 Module base for zref (HO)
+Package zref Info: New property list: main on input line 763.
+Package zref Info: New property: default on input line 764.
+Package zref Info: New property: page on input line 765.
+)
+\c@abspage=\count303
+Package zref Info: New property: abspage on input line 66.
+) (/usr/share/texlive/texmf-dist/tex/latex/media9/pdfbase.sty
+Package: pdfbase 2020/01/27 v0.36 driver independent access to low-level PDF features
+\g_pbs_page_int=\count304
+\g_pbs_obj_int=\count305
+\g_pbs_oc_int=\count306
+) (/usr/share/texlive/texmf-dist/tex/latex/ocgx2/ocgbase.sty
+Package: ocgbase 2019/11/04 v0.17 support package for ocgx2.sty
+\g_ocgbase_nd_int=\count307
+)
+\@anim@box=\box57
+\@anim@measbox=\box58
+\@anim@tmpdima=\dimen191
+\@anim@tmpdimb=\dimen192
+\@anim@num=\count308
+\@anim@curframe=\count309
+\@anim@curframe@zb=\count310
+\@anim@resizeflags=\count311
+\@anim@skipfram=\count312
+\@anim@mulframecnt=\count313
+\@anim@@tmlnfile=\read2
+\@anim@tmpcnt=\count314
+\c@@anim@ltxcnt=\count315
+\@anim@curlayer=\count316
+\@anim@lineno=\count317
+\@anim@curfield=\count318
+\@anim@@resizeflags=\count319
+) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count320
+\Gm@cntv=\count321
+\c@Gm@tempcnt=\count322
+\Gm@bindingoffset=\dimen193
+\Gm@wd@mp=\dimen194
+\Gm@odd@mp=\dimen195
+\Gm@even@mp=\dimen196
+\Gm@layoutwidth=\dimen197
+\Gm@layoutheight=\dimen198
+\Gm@layouthoffset=\dimen199
+\Gm@layoutvoffset=\dimen256
+\Gm@dimlist=\toks29
+) (/usr/share/texlive/texmf-dist/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+) (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+) (./pythonhighlight.sty
+Package: pythonhighlight 2011/09/19 python code highlighting; provided by Olivier Verdier <olivier.verdier@gmail.com>
+ (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count323
+\lst@gtempboxa=\box59
+\lst@token=\toks30
+\lst@length=\count324
+\lst@currlwidth=\dimen257
+\lst@column=\count325
+\lst@pos=\count326
+\lst@lostspace=\dimen258
+\lst@width=\dimen259
+\lst@newlines=\count327
+\lst@lineno=\count328
+\lst@maxwidth=\dimen260
+ (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
+\c@lstnumber=\count329
+\lst@skipnumbers=\count330
+\lst@framebox=\box60
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2019/09/10 1.8c listings configuration
+))
+Package: listings 2019/09/10 1.8c (Carsten Heinz)
+ (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)) (/usr/share/texlive/texmf-dist/tex/latex/scalerel/scalerel.sty
+Package: scalerel 2016/12/29 v1.8 Routines for constrained scaling and stretching of objects, relative to a reference object or in absolute terms
+ (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count331
+)
+\thesrwidth=\skip80
+\thesrheight=\skip81
+\srblobheight=\skip82
+\srblobdepth=\skip83
+\mnxsrwidth=\skip84
+\LMex=\skip85
+\LMpt=\skip86
+) (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count332
+\float@exts=\toks31
+\float@box=\box61
+\@float@everytoks=\toks32
+\@floatcapt=\box62
+) (/usr/share/texlive/texmf-dist/tex/latex/abstract/abstract.sty
+Package: abstract 2009/06/08 v1.2a configurable abstracts
+\abstitleskip=\skip87
+\absleftindent=\skip88
+\absrightindent=\skip89
+\absparindent=\skip90
+\absparsep=\skip91
+) (/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen261
+\lightrulewidth=\dimen262
+\cmidrulewidth=\dimen263
+\belowrulesep=\dimen264
+\belowbottomsep=\dimen265
+\aboverulesep=\dimen266
+\abovetopsep=\dimen267
+\cmidrulesep=\dimen268
+\cmidrulekern=\dimen269
+\defaultaddspace=\dimen270
+\@cmidla=\count333
+\@cmidlb=\count334
+\@aboverulesep=\dimen271
+\@belowrulesep=\dimen272
+\@thisruleclass=\count335
+\@lastruleclass=\count336
+\@thisrulewidth=\dimen273
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen274
+\ar@mcellbox=\box63
+\extrarowheight=\dimen275
+\NC@list=\toks33
+\extratabsurround=\skip92
+\backup@length=\skip93
+\ar@cellbox=\box64
+) (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+\multirow@colwidth=\skip94
+\multirow@cntb=\count337
+\multirow@dima=\skip95
+\bigstrutjot=\dimen276
+) (/usr/share/texlive/texmf-dist/tex/latex/diagbox/diagbox.sty
+Package: diagbox 2020/02/09 v2.3 Making table heads with diagonal lines
+ (/usr/share/texlive/texmf-dist/tex/latex/pict2e/pict2e.sty
+Package: pict2e 2019/08/20 v0.3c Improved picture commands (HjG,RN,JT)
+ (/usr/share/texlive/texmf-dist/tex/latex/pict2e/pict2e.cfg
+File: pict2e.cfg 2016/02/05 v0.1u pict2e configuration for teTeX/TeXLive
+)
+Package pict2e Info: Driver file: xetex.def on input line 119.
+Package pict2e Info: Driver file for pict2e: p2e-xetex.def on input line 121.
+ (/usr/share/texlive/texmf-dist/tex/latex/pict2e/p2e-xetex.def
+File: p2e-xetex.def 2016/02/05 v0.1u Driver-dependant file (RN,HjG,JT)
+)
+\pIIe@GRAPH=\toks34
+\@arclen=\dimen277
+\@arcrad=\dimen278
+\@tempdimd=\dimen279
+) (/usr/share/texlive/texmf-dist/tex/latex/fp/fp.sty
+Package: fp 1995/04/02
+ `Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich (/usr/share/texlive/texmf-dist/tex/latex/fp/defpattern.sty
+Package: defpattern 1994/10/12
+\actioncount=\count338
+) (/usr/share/texlive/texmf-dist/tex/latex/fp/fp-basic.sty
+Package: fp-basic 1996/05/13
+\FP@xs=\count339
+\FP@xia=\count340
+\FP@xib=\count341
+\FP@xfa=\count342
+\FP@xfb=\count343
+\FP@rega=\count344
+\FP@regb=\count345
+\FP@regs=\count346
+\FP@times=\count347
+) (/usr/share/texlive/texmf-dist/tex/latex/fp/fp-addons.sty
+Package: fp-addons 1995/03/15
+) (/usr/share/texlive/texmf-dist/tex/latex/fp/fp-snap.sty
+Package: fp-snap 1995/04/05
+) (/usr/share/texlive/texmf-dist/tex/latex/fp/fp-exp.sty
+Package: fp-exp 1995/04/03
+) (/usr/share/texlive/texmf-dist/tex/latex/fp/fp-trigo.sty
+Package: fp-trigo 1995/04/14
+) (/usr/share/texlive/texmf-dist/tex/latex/fp/fp-pas.sty
+Package: fp-pas 1994/08/29
+) (/usr/share/texlive/texmf-dist/tex/latex/fp/fp-random.sty
+Package: fp-random 1995/02/23
+\FPseed=\count348
+) (/usr/share/texlive/texmf-dist/tex/latex/fp/fp-eqn.sty
+Package: fp-eqn 1995/04/03
+) (/usr/share/texlive/texmf-dist/tex/latex/fp/fp-upn.sty
+Package: fp-upn 1996/10/21
+) (/usr/share/texlive/texmf-dist/tex/latex/fp/fp-eval.sty
+Package: fp-eval 1995/04/03
+))
+\diagbox@boxa=\box65
+\diagbox@boxb=\box66
+\diagbox@boxm=\box67
+\diagbox@wd=\dimen280
+\diagbox@ht=\dimen281
+\diagbox@insepl=\dimen282
+\diagbox@insepr=\dimen283
+\diagbox@outsepl=\dimen284
+\diagbox@outsepr=\dimen285
+)
+\c@theorem=\count349
+ (/usr/share/texlive/texmf-dist/tex/xelatex/xecjk/xeCJK-listings.sty
+Package: xeCJK-listings 2020/02/14 v3.8.1 xeCJK patch file for listings
+\l__xeCJK_listings_max_char_int=\count350
+\l__xeCJK_listings_flag_int=\count351
+) (./work2.aux)
+\openout1 = `work2.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+ ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 75.
+
+Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup10
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 75.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 75.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 75.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 75.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 75.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 75.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 75.
+LaTeX Font Info:    Redeclaring math accent \check on input line 75.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 75.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 75.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 75.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 75.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 75.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 75.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 75.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 75.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 75.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 75.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 75.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 75.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 75.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 75.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 75.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 75.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 75.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 75.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 75.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 75.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 75.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 75.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 75.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 75.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 75.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 75.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 75.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 75.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 75.
+\AtBeginShipoutBox=\box68
+Package hyperref Info: Link coloring OFF on input line 75.
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+ (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count352
+)
+LaTeX Info: Redefining \ref on input line 75.
+LaTeX Info: Redefining \pageref on input line 75.
+LaTeX Info: Redefining \nameref on input line 75.
+ (./work2.out) (./work2.out)
+\@outlinefile=\write3
+\openout3 = `work2.out'.
+
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(88.2037pt, 418.82462pt, 90.47955pt)
+* v-part:(T,H,B)=(89.34163pt, 684.57333pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=418.82462pt
+* \textheight=684.57333pt
+* \oddsidemargin=15.93372pt
+* \evensidemargin=15.93372pt
+* \topmargin=-19.92836pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=50.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\c@lstlisting=\count353
+LaTeX Font Info:    Trying to load font information for U+msa on input line 78.
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 78.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 78.
+ (/usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+Underfull \hbox (badness 10000) in paragraph at lines 98--99
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--99
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--99
+
+ []
+
+[0
+
+]
+No file work2.toc.
+\tf@toc=\write4
+\openout4 = `work2.toc'.
+
+[1] [1] [2] [3] [4]
+
+LaTeX Font Warning: Command \large invalid in math mode on input line 351.
+
+[5]
+File: 11.png Graphic file (type bmp)
+<11.png>
+ [6]
+File: 22.png Graphic file (type bmp)
+<22.png>
+File: 33.png Graphic file (type bmp)
+<33.png>
+File: 44.png Graphic file (type bmp)
+<44.png>
+ [7] [8] [9]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 634.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 634.
+
+[10]
+File: Gershgorin_circle.png Graphic file (type bmp)
+<Gershgorin_circle.png>
+ [11]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 708.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 708.
+
+[12] [13] (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2019/09/10 1.8c listings language file
+)
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 820.
+
+
+Package fontspec Warning: Font "FandolFang-Regular" does not contain requested
+(fontspec)                Script "CJK".
+
+
+Package fontspec Info: Font family 'FandolFang-Regular(0)' created for font
+(fontspec)             'FandolFang-Regular' with options
+(fontspec)             [Script={CJK},Extension={.otf}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[FandolFang-Regular.otf]/OT:language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+(./5_pic.py
+LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <9> not available
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 3.
+) (./5_pic.py [14] [15]) (./5_pic.py) (./5_pic.py) [16]
+Missing character: There is no 值 in font [lmroman10-regular]:mapping=tex-text;!
+File: pic5_png.png Graphic file (type bmp)
+<pic5_png.png>
+ [17]
+Missing character: There is no 值 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 值 in font [lmroman10-regular]:mapping=tex-text;!
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: 1,0,1,0,1.png Graphic file (type bmp)
+<1,0,1,0,1.png>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: 1,-1,0,1,-1.png Graphic file (type bmp)
+<1,-1,0,1,-1.png>
+[18] [19]
+File: v-1000.png Graphic file (type bmp)
+<v-1000.png>
+ [20]
+File: 100_pic.png Graphic file (type bmp)
+<100_pic.png>
+ [21]
+File: 200000_2000.png Graphic file (type bmp)
+<200000_2000.png>
+File: 200000_10000.png Graphic file (type bmp)
+<200000_10000.png>
+ [22]
+File: A1.png Graphic file (type bmp)
+<A1.png>
+ <a0,fr0>
+File: A2.png Graphic file (type bmp)
+<A2.png>
+ <a0,fr1>
+File: A3.png Graphic file (type bmp)
+<A3.png>
+ <a0,fr2>
+File: A4.png Graphic file (type bmp)
+<A4.png>
+ <a0,fr3>
+File: A5.png Graphic file (type bmp)
+<A5.png>
+ <a0,fr4>
+File: A6.png Graphic file (type bmp)
+<A6.png>
+ <a0,fr5>
+File: A7.png Graphic file (type bmp)
+<A7.png>
+ <a0,fr6>
+File: A8.png Graphic file (type bmp)
+<A8.png>
+ <a0,fr7>
+File: A9.png Graphic file (type bmp)
+<A9.png>
+ <a0,fr8>
+File: A10.png Graphic file (type bmp)
+<A10.png>
+ <a0,fr9>
+File: A11.png Graphic file (type bmp)
+<A11.png>
+ <a0,fr10>
+File: A12.png Graphic file (type bmp)
+<A12.png>
+ <a0,fr11>
+File: A13.png Graphic file (type bmp)
+<A13.png>
+ <a0,fr12>
+File: A14.png Graphic file (type bmp)
+<A14.png>
+ <a0,fr13>
+File: A15.png Graphic file (type bmp)
+<A15.png>
+ <a0,fr14>
+File: A16.png Graphic file (type bmp)
+<A16.png>
+ <a0,fr15>
+File: A17.png Graphic file (type bmp)
+<A17.png>
+ <a0,fr16>
+File: A18.png Graphic file (type bmp)
+<A18.png>
+ <a0,fr17>
+File: A19.png Graphic file (type bmp)
+<A19.png>
+ <a0,fr18>
+File: A20.png Graphic file (type bmp)
+<A20.png>
+ <a0,fr19>
+File: A21.png Graphic file (type bmp)
+<A21.png>
+ <a0,fr20>
+File: A22.png Graphic file (type bmp)
+<A22.png>
+ <a0,fr21>
+File: A23.png Graphic file (type bmp)
+<A23.png>
+ <a0,fr22>
+File: A24.png Graphic file (type bmp)
+<A24.png>
+ <a0,fr23>
+File: A25.png Graphic file (type bmp)
+<A25.png>
+ <a0,fr24>
+File: A26.png Graphic file (type bmp)
+<A26.png>
+ <a0,fr25>
+File: A27.png Graphic file (type bmp)
+<A27.png>
+ <a0,fr26>
+File: A28.png Graphic file (type bmp)
+<A28.png>
+ <a0,fr27>
+File: A29.png Graphic file (type bmp)
+<A29.png>
+ <a0,fr28>
+File: A30.png Graphic file (type bmp)
+<A30.png>
+ <a0,fr29>
+File: A31.png Graphic file (type bmp)
+<A31.png>
+ <a0,fr30>
+File: A32.png Graphic file (type bmp)
+<A32.png>
+ <a0,fr31>
+File: A33.png Graphic file (type bmp)
+<A33.png>
+ <a0,fr32>
+File: A34.png Graphic file (type bmp)
+<A34.png>
+ <a0,fr33>
+File: A35.png Graphic file (type bmp)
+<A35.png>
+ <a0,fr34>
+File: A36.png Graphic file (type bmp)
+<A36.png>
+ <a0,fr35>
+File: A37.png Graphic file (type bmp)
+<A37.png>
+ <a0,fr36>
+File: A38.png Graphic file (type bmp)
+<A38.png>
+ <a0,fr37>
+File: A39.png Graphic file (type bmp)
+<A39.png>
+ <a0,fr38>
+File: A40.png Graphic file (type bmp)
+<A40.png>
+ <a0,fr39>
+File: A41.png Graphic file (type bmp)
+<A41.png>
+ <a0,fr40>
+File: A42.png Graphic file (type bmp)
+<A42.png>
+ <a0,fr41>
+File: A43.png Graphic file (type bmp)
+<A43.png>
+ <a0,fr42>
+File: A44.png Graphic file (type bmp)
+<A44.png>
+ <a0,fr43>
+File: A45.png Graphic file (type bmp)
+<A45.png>
+ <a0,fr44>
+File: A46.png Graphic file (type bmp)
+<A46.png>
+ <a0,fr45>
+File: A47.png Graphic file (type bmp)
+<A47.png>
+ <a0,fr46>
+File: A48.png Graphic file (type bmp)
+<A48.png>
+ <a0,fr47>
+File: A49.png Graphic file (type bmp)
+<A49.png>
+ <a0,fr48>
+File: A50.png Graphic file (type bmp)
+<A50.png>
+ <a0,fr49>
+File: A51.png Graphic file (type bmp)
+<A51.png>
+ <a0,fr50>
+File: A52.png Graphic file (type bmp)
+<A52.png>
+ <a0,fr51>
+File: A53.png Graphic file (type bmp)
+<A53.png>
+ <a0,fr52>
+File: A54.png Graphic file (type bmp)
+<A54.png>
+ <a0,fr53>
+File: A55.png Graphic file (type bmp)
+<A55.png>
+ <a0,fr54>
+File: A56.png Graphic file (type bmp)
+<A56.png>
+ <a0,fr55>
+File: A57.png Graphic file (type bmp)
+<A57.png>
+ <a0,fr56>
+File: A58.png Graphic file (type bmp)
+<A58.png>
+ <a0,fr57>
+File: A59.png Graphic file (type bmp)
+<A59.png>
+ <a0,fr58>
+File: A60.png Graphic file (type bmp)
+<A60.png>
+ <a0,fr59>
+File: A61.png Graphic file (type bmp)
+<A61.png>
+ <a0,fr60>
+File: A62.png Graphic file (type bmp)
+<A62.png>
+ <a0,fr61>
+File: A63.png Graphic file (type bmp)
+<A63.png>
+ <a0,fr62>
+File: A64.png Graphic file (type bmp)
+<A64.png>
+ <a0,fr63>
+File: A65.png Graphic file (type bmp)
+<A65.png>
+ <a0,fr64>
+File: A66.png Graphic file (type bmp)
+<A66.png>
+ <a0,fr65>
+File: A67.png Graphic file (type bmp)
+<A67.png>
+ <a0,fr66>
+File: A68.png Graphic file (type bmp)
+<A68.png>
+ <a0,fr67>
+File: A69.png Graphic file (type bmp)
+<A69.png>
+ <a0,fr68>
+File: A70.png Graphic file (type bmp)
+<A70.png>
+ <a0,fr69>
+File: A71.png Graphic file (type bmp)
+<A71.png>
+ <a0,fr70>
+File: A72.png Graphic file (type bmp)
+<A72.png>
+ <a0,fr71>
+File: A73.png Graphic file (type bmp)
+<A73.png>
+ <a0,fr72>
+File: A74.png Graphic file (type bmp)
+<A74.png>
+ <a0,fr73>
+File: A75.png Graphic file (type bmp)
+<A75.png>
+ <a0,fr74>
+File: A76.png Graphic file (type bmp)
+<A76.png>
+ <a0,fr75>
+File: A77.png Graphic file (type bmp)
+<A77.png>
+ <a0,fr76>
+File: A78.png Graphic file (type bmp)
+<A78.png>
+ <a0,fr77>
+File: A79.png Graphic file (type bmp)
+<A79.png>
+ <a0,fr78>
+File: A80.png Graphic file (type bmp)
+<A80.png>
+ <a0,fr79>
+File: A81.png Graphic file (type bmp)
+<A81.png>
+ <a0,fr80>
+File: A82.png Graphic file (type bmp)
+<A82.png>
+ <a0,fr81>
+File: A83.png Graphic file (type bmp)
+<A83.png>
+ <a0,fr82>
+File: A84.png Graphic file (type bmp)
+<A84.png>
+ <a0,fr83>
+File: A85.png Graphic file (type bmp)
+<A85.png>
+ <a0,fr84>
+File: A86.png Graphic file (type bmp)
+<A86.png>
+ <a0,fr85>
+File: A87.png Graphic file (type bmp)
+<A87.png>
+ <a0,fr86>
+File: A88.png Graphic file (type bmp)
+<A88.png>
+ <a0,fr87>
+File: A89.png Graphic file (type bmp)
+<A89.png>
+ <a0,fr88>
+File: A90.png Graphic file (type bmp)
+<A90.png>
+ <a0,fr89>
+File: A91.png Graphic file (type bmp)
+<A91.png>
+ <a0,fr90>
+File: A92.png Graphic file (type bmp)
+<A92.png>
+ <a0,fr91>
+File: A93.png Graphic file (type bmp)
+<A93.png>
+ <a0,fr92>
+File: A94.png Graphic file (type bmp)
+<A94.png>
+ <a0,fr93>
+File: A95.png Graphic file (type bmp)
+<A95.png>
+ <a0,fr94>
+File: A96.png Graphic file (type bmp)
+<A96.png>
+ <a0,fr95>
+File: A97.png Graphic file (type bmp)
+<A97.png>
+ <a0,fr96>
+File: A98.png Graphic file (type bmp)
+<A98.png>
+ <a0,fr97>
+File: A99.png Graphic file (type bmp)
+<A99.png>
+ <a0,fr98>
+File: A100.png Graphic file (type bmp)
+<A100.png>
+ <a0,fr99>
+File: A101.png Graphic file (type bmp)
+<A101.png>
+ <a0,fr100>
+File: A102.png Graphic file (type bmp)
+<A102.png>
+ <a0,fr101>
+File: A103.png Graphic file (type bmp)
+<A103.png>
+ <a0,fr102>
+File: A104.png Graphic file (type bmp)
+<A104.png>
+ <a0,fr103>
+File: A105.png Graphic file (type bmp)
+<A105.png>
+ <a0,fr104>
+File: A106.png Graphic file (type bmp)
+<A106.png>
+ <a0,fr105>
+File: A107.png Graphic file (type bmp)
+<A107.png>
+ <a0,fr106>
+File: A108.png Graphic file (type bmp)
+<A108.png>
+ <a0,fr107>
+File: A109.png Graphic file (type bmp)
+<A109.png>
+ <a0,fr108>
+File: A110.png Graphic file (type bmp)
+<A110.png>
+ <a0,fr109>
+File: A111.png Graphic file (type bmp)
+<A111.png>
+ <a0,fr110>
+File: A112.png Graphic file (type bmp)
+<A112.png>
+ <a0,fr111>
+File: A113.png Graphic file (type bmp)
+<A113.png>
+ <a0,fr112>
+File: A114.png Graphic file (type bmp)
+<A114.png>
+ <a0,fr113>
+File: A115.png Graphic file (type bmp)
+<A115.png>
+ <a0,fr114>
+File: A116.png Graphic file (type bmp)
+<A116.png>
+ <a0,fr115>
+File: A117.png Graphic file (type bmp)
+<A117.png>
+ <a0,fr116>
+File: A118.png Graphic file (type bmp)
+<A118.png>
+ <a0,fr117>
+File: A119.png Graphic file (type bmp)
+<A119.png>
+ <a0,fr118>
+File: A120.png Graphic file (type bmp)
+<A120.png>
+ <a0,fr119>
+File: A121.png Graphic file (type bmp)
+<A121.png>
+ <a0,fr120>
+File: A122.png Graphic file (type bmp)
+<A122.png>
+ <a0,fr121>
+File: A123.png Graphic file (type bmp)
+<A123.png>
+ <a0,fr122>
+File: A124.png Graphic file (type bmp)
+<A124.png>
+ <a0,fr123>
+File: A125.png Graphic file (type bmp)
+<A125.png>
+ <a0,fr124>
+File: A126.png Graphic file (type bmp)
+<A126.png>
+ <a0,fr125>
+File: A127.png Graphic file (type bmp)
+<A127.png>
+ <a0,fr126>
+File: A128.png Graphic file (type bmp)
+<A128.png>
+ <a0,fr127>
+File: A129.png Graphic file (type bmp)
+<A129.png>
+ <a0,fr128>
+File: A130.png Graphic file (type bmp)
+<A130.png>
+ <a0,fr129>
+File: A131.png Graphic file (type bmp)
+<A131.png>
+ <a0,fr130>
+File: A132.png Graphic file (type bmp)
+<A132.png>
+ <a0,fr131>
+File: A133.png Graphic file (type bmp)
+<A133.png>
+ <a0,fr132>
+File: A134.png Graphic file (type bmp)
+<A134.png>
+ <a0,fr133>
+File: A135.png Graphic file (type bmp)
+<A135.png>
+ <a0,fr134>
+File: A136.png Graphic file (type bmp)
+<A136.png>
+ <a0,fr135>
+File: A137.png Graphic file (type bmp)
+<A137.png>
+ <a0,fr136>
+File: A138.png Graphic file (type bmp)
+<A138.png>
+ <a0,fr137>
+File: A139.png Graphic file (type bmp)
+<A139.png>
+ <a0,fr138>
+File: A140.png Graphic file (type bmp)
+<A140.png>
+ <a0,fr139>
+File: A141.png Graphic file (type bmp)
+<A141.png>
+ <a0,fr140>
+File: A142.png Graphic file (type bmp)
+<A142.png>
+ <a0,fr141>
+File: A143.png Graphic file (type bmp)
+<A143.png>
+ <a0,fr142>
+File: A144.png Graphic file (type bmp)
+<A144.png>
+ <a0,fr143>
+File: A145.png Graphic file (type bmp)
+<A145.png>
+ <a0,fr144>
+File: A146.png Graphic file (type bmp)
+<A146.png>
+ <a0,fr145>
+File: A147.png Graphic file (type bmp)
+<A147.png>
+ <a0,fr146>
+File: A148.png Graphic file (type bmp)
+<A148.png>
+ <a0,fr147>
+File: A149.png Graphic file (type bmp)
+<A149.png>
+ <a0,fr148>
+File: A150.png Graphic file (type bmp)
+<A150.png>
+ <a0,fr149>
+File: A151.png Graphic file (type bmp)
+<A151.png>
+ <a0,fr150>
+File: A152.png Graphic file (type bmp)
+<A152.png>
+ <a0,fr151>
+File: A153.png Graphic file (type bmp)
+<A153.png>
+ <a0,fr152>
+File: A154.png Graphic file (type bmp)
+<A154.png>
+ <a0,fr153>
+File: A155.png Graphic file (type bmp)
+<A155.png>
+ <a0,fr154>
+File: A156.png Graphic file (type bmp)
+<A156.png>
+ <a0,fr155>
+File: A157.png Graphic file (type bmp)
+<A157.png>
+ <a0,fr156>
+File: A158.png Graphic file (type bmp)
+<A158.png>
+ <a0,fr157>
+File: A159.png Graphic file (type bmp)
+<A159.png>
+ <a0,fr158>
+File: A160.png Graphic file (type bmp)
+<A160.png>
+ <a0,fr159>
+File: A161.png Graphic file (type bmp)
+<A161.png>
+ <a0,fr160>
+File: A162.png Graphic file (type bmp)
+<A162.png>
+ <a0,fr161>
+File: A163.png Graphic file (type bmp)
+<A163.png>
+ <a0,fr162>
+File: A164.png Graphic file (type bmp)
+<A164.png>
+ <a0,fr163>
+File: A165.png Graphic file (type bmp)
+<A165.png>
+ <a0,fr164>
+File: A166.png Graphic file (type bmp)
+<A166.png>
+ <a0,fr165>
+File: A167.png Graphic file (type bmp)
+<A167.png>
+ <a0,fr166>
+File: A168.png Graphic file (type bmp)
+<A168.png>
+ <a0,fr167>
+File: A169.png Graphic file (type bmp)
+<A169.png>
+ <a0,fr168>
+File: A170.png Graphic file (type bmp)
+<A170.png>
+ <a0,fr169>
+File: A171.png Graphic file (type bmp)
+<A171.png>
+ <a0,fr170>
+File: A172.png Graphic file (type bmp)
+<A172.png>
+ <a0,fr171>
+File: A173.png Graphic file (type bmp)
+<A173.png>
+ <a0,fr172>
+File: A174.png Graphic file (type bmp)
+<A174.png>
+ <a0,fr173>
+File: A175.png Graphic file (type bmp)
+<A175.png>
+ <a0,fr174>
+File: A176.png Graphic file (type bmp)
+<A176.png>
+ <a0,fr175>
+File: A177.png Graphic file (type bmp)
+<A177.png>
+ <a0,fr176>
+File: A178.png Graphic file (type bmp)
+<A178.png>
+ <a0,fr177>
+File: A179.png Graphic file (type bmp)
+<A179.png>
+ <a0,fr178>
+File: A180.png Graphic file (type bmp)
+<A180.png>
+ <a0,fr179>
+File: A181.png Graphic file (type bmp)
+<A181.png>
+ <a0,fr180>
+File: A182.png Graphic file (type bmp)
+<A182.png>
+ <a0,fr181>
+File: A183.png Graphic file (type bmp)
+<A183.png>
+ <a0,fr182>
+File: A184.png Graphic file (type bmp)
+<A184.png>
+ <a0,fr183>
+File: A185.png Graphic file (type bmp)
+<A185.png>
+ <a0,fr184>
+File: A186.png Graphic file (type bmp)
+<A186.png>
+ <a0,fr185>
+File: A187.png Graphic file (type bmp)
+<A187.png>
+ <a0,fr186>
+File: A188.png Graphic file (type bmp)
+<A188.png>
+ <a0,fr187>
+File: A189.png Graphic file (type bmp)
+<A189.png>
+ <a0,fr188>
+File: A190.png Graphic file (type bmp)
+<A190.png>
+ <a0,fr189>
+File: A191.png Graphic file (type bmp)
+<A191.png>
+ <a0,fr190>
+File: A192.png Graphic file (type bmp)
+<A192.png>
+ <a0,fr191>
+File: A193.png Graphic file (type bmp)
+<A193.png>
+ <a0,fr192>
+File: A194.png Graphic file (type bmp)
+<A194.png>
+ <a0,fr193>
+File: A195.png Graphic file (type bmp)
+<A195.png>
+ <a0,fr194>
+File: A196.png Graphic file (type bmp)
+<A196.png>
+ <a0,fr195>
+File: A197.png Graphic file (type bmp)
+<A197.png>
+ <a0,fr196>
+File: A198.png Graphic file (type bmp)
+<A198.png>
+ <a0,fr197>
+File: A199.png Graphic file (type bmp)
+<A199.png>
+ <a0,fr198>
+File: A200.png Graphic file (type bmp)
+<A200.png>
+ <a0,fr199>
+Overfull \hbox (14.78856pt too wide) in paragraph at lines 1103--1105
+ [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+File: B1.png Graphic file (type bmp)
+<B1.png>
+<a1,fr0>
+File: B2.png Graphic file (type bmp)
+<B2.png>
+ <a1,fr1>
+File: B3.png Graphic file (type bmp)
+<B3.png>
+ <a1,fr2>
+File: B4.png Graphic file (type bmp)
+<B4.png>
+ <a1,fr3>
+File: B5.png Graphic file (type bmp)
+<B5.png>
+ <a1,fr4>
+File: B6.png Graphic file (type bmp)
+<B6.png>
+ <a1,fr5>
+File: B7.png Graphic file (type bmp)
+<B7.png>
+ <a1,fr6>
+File: B8.png Graphic file (type bmp)
+<B8.png>
+ <a1,fr7>
+File: B9.png Graphic file (type bmp)
+<B9.png>
+ <a1,fr8>
+File: B10.png Graphic file (type bmp)
+<B10.png>
+ <a1,fr9>
+File: B11.png Graphic file (type bmp)
+<B11.png>
+ <a1,fr10>
+File: B12.png Graphic file (type bmp)
+<B12.png>
+ <a1,fr11>
+File: B13.png Graphic file (type bmp)
+<B13.png>
+ <a1,fr12>
+File: B14.png Graphic file (type bmp)
+<B14.png>
+ <a1,fr13>
+File: B15.png Graphic file (type bmp)
+<B15.png>
+ <a1,fr14>
+File: B16.png Graphic file (type bmp)
+<B16.png>
+ <a1,fr15>
+File: B17.png Graphic file (type bmp)
+<B17.png>
+ <a1,fr16>
+File: B18.png Graphic file (type bmp)
+<B18.png>
+ <a1,fr17>
+File: B19.png Graphic file (type bmp)
+<B19.png>
+ <a1,fr18>
+File: B20.png Graphic file (type bmp)
+<B20.png>
+ <a1,fr19>
+File: B21.png Graphic file (type bmp)
+<B21.png>
+ <a1,fr20>
+File: B22.png Graphic file (type bmp)
+<B22.png>
+ <a1,fr21>
+File: B23.png Graphic file (type bmp)
+<B23.png>
+ <a1,fr22>
+File: B24.png Graphic file (type bmp)
+<B24.png>
+ <a1,fr23>
+File: B25.png Graphic file (type bmp)
+<B25.png>
+ <a1,fr24>
+File: B26.png Graphic file (type bmp)
+<B26.png>
+ <a1,fr25>
+File: B27.png Graphic file (type bmp)
+<B27.png>
+ <a1,fr26>
+File: B28.png Graphic file (type bmp)
+<B28.png>
+ <a1,fr27>
+File: B29.png Graphic file (type bmp)
+<B29.png>
+ <a1,fr28>
+File: B30.png Graphic file (type bmp)
+<B30.png>
+ <a1,fr29>
+File: B31.png Graphic file (type bmp)
+<B31.png>
+ <a1,fr30>
+File: B32.png Graphic file (type bmp)
+<B32.png>
+ <a1,fr31>
+File: B33.png Graphic file (type bmp)
+<B33.png>
+ <a1,fr32>
+File: B34.png Graphic file (type bmp)
+<B34.png>
+ <a1,fr33>
+File: B35.png Graphic file (type bmp)
+<B35.png>
+ <a1,fr34>
+File: B36.png Graphic file (type bmp)
+<B36.png>
+ <a1,fr35>
+File: B37.png Graphic file (type bmp)
+<B37.png>
+ <a1,fr36>
+File: B38.png Graphic file (type bmp)
+<B38.png>
+ <a1,fr37>
+File: B39.png Graphic file (type bmp)
+<B39.png>
+ <a1,fr38>
+File: B40.png Graphic file (type bmp)
+<B40.png>
+ <a1,fr39>
+File: B41.png Graphic file (type bmp)
+<B41.png>
+ <a1,fr40>
+File: B42.png Graphic file (type bmp)
+<B42.png>
+ <a1,fr41>
+File: B43.png Graphic file (type bmp)
+<B43.png>
+ <a1,fr42>
+File: B44.png Graphic file (type bmp)
+<B44.png>
+ <a1,fr43>
+File: B45.png Graphic file (type bmp)
+<B45.png>
+ <a1,fr44>
+File: B46.png Graphic file (type bmp)
+<B46.png>
+ <a1,fr45>
+File: B47.png Graphic file (type bmp)
+<B47.png>
+ <a1,fr46>
+File: B48.png Graphic file (type bmp)
+<B48.png>
+ <a1,fr47>
+File: B49.png Graphic file (type bmp)
+<B49.png>
+ <a1,fr48>
+File: B50.png Graphic file (type bmp)
+<B50.png>
+ <a1,fr49>
+File: B51.png Graphic file (type bmp)
+<B51.png>
+ <a1,fr50>
+File: B52.png Graphic file (type bmp)
+<B52.png>
+ <a1,fr51>
+File: B53.png Graphic file (type bmp)
+<B53.png>
+ <a1,fr52>
+File: B54.png Graphic file (type bmp)
+<B54.png>
+ <a1,fr53>
+File: B55.png Graphic file (type bmp)
+<B55.png>
+ <a1,fr54>
+File: B56.png Graphic file (type bmp)
+<B56.png>
+ <a1,fr55>
+File: B57.png Graphic file (type bmp)
+<B57.png>
+ <a1,fr56>
+File: B58.png Graphic file (type bmp)
+<B58.png>
+ <a1,fr57>
+File: B59.png Graphic file (type bmp)
+<B59.png>
+ <a1,fr58>
+File: B60.png Graphic file (type bmp)
+<B60.png>
+ <a1,fr59>
+File: B61.png Graphic file (type bmp)
+<B61.png>
+ <a1,fr60>
+File: B62.png Graphic file (type bmp)
+<B62.png>
+ <a1,fr61>
+File: B63.png Graphic file (type bmp)
+<B63.png>
+ <a1,fr62>
+File: B64.png Graphic file (type bmp)
+<B64.png>
+ <a1,fr63>
+File: B65.png Graphic file (type bmp)
+<B65.png>
+ <a1,fr64>
+File: B66.png Graphic file (type bmp)
+<B66.png>
+ <a1,fr65>
+File: B67.png Graphic file (type bmp)
+<B67.png>
+ <a1,fr66>
+File: B68.png Graphic file (type bmp)
+<B68.png>
+ <a1,fr67>
+File: B69.png Graphic file (type bmp)
+<B69.png>
+ <a1,fr68>
+File: B70.png Graphic file (type bmp)
+<B70.png>
+ <a1,fr69>
+File: B71.png Graphic file (type bmp)
+<B71.png>
+ <a1,fr70>
+File: B72.png Graphic file (type bmp)
+<B72.png>
+ <a1,fr71>
+File: B73.png Graphic file (type bmp)
+<B73.png>
+ <a1,fr72>
+File: B74.png Graphic file (type bmp)
+<B74.png>
+ <a1,fr73>
+File: B75.png Graphic file (type bmp)
+<B75.png>
+ <a1,fr74>
+File: B76.png Graphic file (type bmp)
+<B76.png>
+ <a1,fr75>
+File: B77.png Graphic file (type bmp)
+<B77.png>
+ <a1,fr76>
+File: B78.png Graphic file (type bmp)
+<B78.png>
+ <a1,fr77>
+File: B79.png Graphic file (type bmp)
+<B79.png>
+ <a1,fr78>
+File: B80.png Graphic file (type bmp)
+<B80.png>
+ <a1,fr79>
+File: B81.png Graphic file (type bmp)
+<B81.png>
+ <a1,fr80>
+File: B82.png Graphic file (type bmp)
+<B82.png>
+ <a1,fr81>
+File: B83.png Graphic file (type bmp)
+<B83.png>
+ <a1,fr82>
+File: B84.png Graphic file (type bmp)
+<B84.png>
+ <a1,fr83>
+File: B85.png Graphic file (type bmp)
+<B85.png>
+ <a1,fr84>
+File: B86.png Graphic file (type bmp)
+<B86.png>
+ <a1,fr85>
+File: B87.png Graphic file (type bmp)
+<B87.png>
+ <a1,fr86>
+File: B88.png Graphic file (type bmp)
+<B88.png>
+ <a1,fr87>
+File: B89.png Graphic file (type bmp)
+<B89.png>
+ <a1,fr88>
+File: B90.png Graphic file (type bmp)
+<B90.png>
+ <a1,fr89>
+File: B91.png Graphic file (type bmp)
+<B91.png>
+ <a1,fr90>
+File: B92.png Graphic file (type bmp)
+<B92.png>
+ <a1,fr91>
+File: B93.png Graphic file (type bmp)
+<B93.png>
+ <a1,fr92>
+File: B94.png Graphic file (type bmp)
+<B94.png>
+ <a1,fr93>
+File: B95.png Graphic file (type bmp)
+<B95.png>
+ <a1,fr94>
+File: B96.png Graphic file (type bmp)
+<B96.png>
+ <a1,fr95>
+File: B97.png Graphic file (type bmp)
+<B97.png>
+ <a1,fr96>
+File: B98.png Graphic file (type bmp)
+<B98.png>
+ <a1,fr97>
+File: B99.png Graphic file (type bmp)
+<B99.png>
+ <a1,fr98>
+File: B100.png Graphic file (type bmp)
+<B100.png>
+ <a1,fr99>
+File: B101.png Graphic file (type bmp)
+<B101.png>
+ <a1,fr100>
+File: B102.png Graphic file (type bmp)
+<B102.png>
+ <a1,fr101>
+File: B103.png Graphic file (type bmp)
+<B103.png>
+ <a1,fr102>
+File: B104.png Graphic file (type bmp)
+<B104.png>
+ <a1,fr103>
+File: B105.png Graphic file (type bmp)
+<B105.png>
+ <a1,fr104>
+File: B106.png Graphic file (type bmp)
+<B106.png>
+ <a1,fr105>
+File: B107.png Graphic file (type bmp)
+<B107.png>
+ <a1,fr106>
+File: B108.png Graphic file (type bmp)
+<B108.png>
+ <a1,fr107>
+File: B109.png Graphic file (type bmp)
+<B109.png>
+ <a1,fr108>
+File: B110.png Graphic file (type bmp)
+<B110.png>
+ <a1,fr109>
+File: B111.png Graphic file (type bmp)
+<B111.png>
+ <a1,fr110>
+File: B112.png Graphic file (type bmp)
+<B112.png>
+ <a1,fr111>
+File: B113.png Graphic file (type bmp)
+<B113.png>
+ <a1,fr112>
+File: B114.png Graphic file (type bmp)
+<B114.png>
+ <a1,fr113>
+File: B115.png Graphic file (type bmp)
+<B115.png>
+ <a1,fr114>
+File: B116.png Graphic file (type bmp)
+<B116.png>
+ <a1,fr115>
+File: B117.png Graphic file (type bmp)
+<B117.png>
+ <a1,fr116>
+File: B118.png Graphic file (type bmp)
+<B118.png>
+ <a1,fr117>
+File: B119.png Graphic file (type bmp)
+<B119.png>
+ <a1,fr118>
+File: B120.png Graphic file (type bmp)
+<B120.png>
+ <a1,fr119>
+File: B121.png Graphic file (type bmp)
+<B121.png>
+ <a1,fr120>
+File: B122.png Graphic file (type bmp)
+<B122.png>
+ <a1,fr121>
+File: B123.png Graphic file (type bmp)
+<B123.png>
+ <a1,fr122>
+File: B124.png Graphic file (type bmp)
+<B124.png>
+ <a1,fr123>
+File: B125.png Graphic file (type bmp)
+<B125.png>
+ <a1,fr124>
+File: B126.png Graphic file (type bmp)
+<B126.png>
+ <a1,fr125>
+File: B127.png Graphic file (type bmp)
+<B127.png>
+ <a1,fr126>
+File: B128.png Graphic file (type bmp)
+<B128.png>
+ <a1,fr127>
+File: B129.png Graphic file (type bmp)
+<B129.png>
+ <a1,fr128>
+File: B130.png Graphic file (type bmp)
+<B130.png>
+ <a1,fr129>
+File: B131.png Graphic file (type bmp)
+<B131.png>
+ <a1,fr130>
+File: B132.png Graphic file (type bmp)
+<B132.png>
+ <a1,fr131>
+File: B133.png Graphic file (type bmp)
+<B133.png>
+ <a1,fr132>
+File: B134.png Graphic file (type bmp)
+<B134.png>
+ <a1,fr133>
+File: B135.png Graphic file (type bmp)
+<B135.png>
+ <a1,fr134>
+File: B136.png Graphic file (type bmp)
+<B136.png>
+ <a1,fr135>
+File: B137.png Graphic file (type bmp)
+<B137.png>
+ <a1,fr136>
+File: B138.png Graphic file (type bmp)
+<B138.png>
+ <a1,fr137>
+File: B139.png Graphic file (type bmp)
+<B139.png>
+ <a1,fr138>
+File: B140.png Graphic file (type bmp)
+<B140.png>
+ <a1,fr139>
+File: B141.png Graphic file (type bmp)
+<B141.png>
+ <a1,fr140>
+File: B142.png Graphic file (type bmp)
+<B142.png>
+ <a1,fr141>
+File: B143.png Graphic file (type bmp)
+<B143.png>
+ <a1,fr142>
+File: B144.png Graphic file (type bmp)
+<B144.png>
+ <a1,fr143>
+File: B145.png Graphic file (type bmp)
+<B145.png>
+ <a1,fr144>
+File: B146.png Graphic file (type bmp)
+<B146.png>
+ <a1,fr145>
+File: B147.png Graphic file (type bmp)
+<B147.png>
+ <a1,fr146>
+File: B148.png Graphic file (type bmp)
+<B148.png>
+ <a1,fr147>
+File: B149.png Graphic file (type bmp)
+<B149.png>
+ <a1,fr148>
+File: B150.png Graphic file (type bmp)
+<B150.png>
+ <a1,fr149>
+File: B151.png Graphic file (type bmp)
+<B151.png>
+ <a1,fr150>
+File: B152.png Graphic file (type bmp)
+<B152.png>
+ <a1,fr151>
+File: B153.png Graphic file (type bmp)
+<B153.png>
+ <a1,fr152>
+File: B154.png Graphic file (type bmp)
+<B154.png>
+ <a1,fr153>
+File: B155.png Graphic file (type bmp)
+<B155.png>
+ <a1,fr154>
+File: B156.png Graphic file (type bmp)
+<B156.png>
+ <a1,fr155>
+File: B157.png Graphic file (type bmp)
+<B157.png>
+ <a1,fr156>
+File: B158.png Graphic file (type bmp)
+<B158.png>
+ <a1,fr157>
+File: B159.png Graphic file (type bmp)
+<B159.png>
+ <a1,fr158>
+File: B160.png Graphic file (type bmp)
+<B160.png>
+ <a1,fr159>
+File: B161.png Graphic file (type bmp)
+<B161.png>
+ <a1,fr160>
+File: B162.png Graphic file (type bmp)
+<B162.png>
+ <a1,fr161>
+File: B163.png Graphic file (type bmp)
+<B163.png>
+ <a1,fr162>
+File: B164.png Graphic file (type bmp)
+<B164.png>
+ <a1,fr163>
+File: B165.png Graphic file (type bmp)
+<B165.png>
+ <a1,fr164>
+File: B166.png Graphic file (type bmp)
+<B166.png>
+ <a1,fr165>
+File: B167.png Graphic file (type bmp)
+<B167.png>
+ <a1,fr166>
+File: B168.png Graphic file (type bmp)
+<B168.png>
+ <a1,fr167>
+File: B169.png Graphic file (type bmp)
+<B169.png>
+ <a1,fr168>
+File: B170.png Graphic file (type bmp)
+<B170.png>
+ <a1,fr169>
+File: B171.png Graphic file (type bmp)
+<B171.png>
+ <a1,fr170>
+File: B172.png Graphic file (type bmp)
+<B172.png>
+ <a1,fr171>
+File: B173.png Graphic file (type bmp)
+<B173.png>
+ <a1,fr172>
+File: B174.png Graphic file (type bmp)
+<B174.png>
+ <a1,fr173>
+File: B175.png Graphic file (type bmp)
+<B175.png>
+ <a1,fr174>
+File: B176.png Graphic file (type bmp)
+<B176.png>
+ <a1,fr175>
+File: B177.png Graphic file (type bmp)
+<B177.png>
+ <a1,fr176>
+File: B178.png Graphic file (type bmp)
+<B178.png>
+ <a1,fr177>
+File: B179.png Graphic file (type bmp)
+<B179.png>
+ <a1,fr178>
+File: B180.png Graphic file (type bmp)
+<B180.png>
+ <a1,fr179>
+File: B181.png Graphic file (type bmp)
+<B181.png>
+ <a1,fr180>
+File: B182.png Graphic file (type bmp)
+<B182.png>
+ <a1,fr181>
+File: B183.png Graphic file (type bmp)
+<B183.png>
+ <a1,fr182>
+File: B184.png Graphic file (type bmp)
+<B184.png>
+ <a1,fr183>
+File: B185.png Graphic file (type bmp)
+<B185.png>
+ <a1,fr184>
+File: B186.png Graphic file (type bmp)
+<B186.png>
+ <a1,fr185>
+File: B187.png Graphic file (type bmp)
+<B187.png>
+ <a1,fr186>
+File: B188.png Graphic file (type bmp)
+<B188.png>
+ <a1,fr187>
+File: B189.png Graphic file (type bmp)
+<B189.png>
+ <a1,fr188>
+File: B190.png Graphic file (type bmp)
+<B190.png>
+ <a1,fr189>
+File: B191.png Graphic file (type bmp)
+<B191.png>
+ <a1,fr190>
+File: B192.png Graphic file (type bmp)
+<B192.png>
+ <a1,fr191>
+File: B193.png Graphic file (type bmp)
+<B193.png>
+ <a1,fr192>
+File: B194.png Graphic file (type bmp)
+<B194.png>
+ <a1,fr193>
+File: B195.png Graphic file (type bmp)
+<B195.png>
+ <a1,fr194>
+File: B196.png Graphic file (type bmp)
+<B196.png>
+ <a1,fr195>
+File: B197.png Graphic file (type bmp)
+<B197.png>
+ <a1,fr196>
+File: B198.png Graphic file (type bmp)
+<B198.png>
+ <a1,fr197>
+File: B199.png Graphic file (type bmp)
+<B199.png>
+ <a1,fr198>
+File: B200.png Graphic file (type bmp)
+<B200.png>
+ <a1,fr199>
+File: B201.png Graphic file (type bmp)
+<B201.png>
+ <a1,fr200>
+File: B202.png Graphic file (type bmp)
+<B202.png>
+ <a1,fr201>
+File: B203.png Graphic file (type bmp)
+<B203.png>
+ <a1,fr202>
+File: B204.png Graphic file (type bmp)
+<B204.png>
+ <a1,fr203>
+File: B205.png Graphic file (type bmp)
+<B205.png>
+ <a1,fr204>
+File: B206.png Graphic file (type bmp)
+<B206.png>
+ <a1,fr205>
+File: B207.png Graphic file (type bmp)
+<B207.png>
+ <a1,fr206>
+File: B208.png Graphic file (type bmp)
+<B208.png>
+ <a1,fr207>
+File: B209.png Graphic file (type bmp)
+<B209.png>
+ <a1,fr208>
+File: B210.png Graphic file (type bmp)
+<B210.png>
+ <a1,fr209>
+File: B211.png Graphic file (type bmp)
+<B211.png>
+ <a1,fr210>
+File: B212.png Graphic file (type bmp)
+<B212.png>
+ <a1,fr211>
+File: B213.png Graphic file (type bmp)
+<B213.png>
+ <a1,fr212>
+File: B214.png Graphic file (type bmp)
+<B214.png>
+ <a1,fr213>
+File: B215.png Graphic file (type bmp)
+<B215.png>
+ <a1,fr214>
+File: B216.png Graphic file (type bmp)
+<B216.png>
+ <a1,fr215>
+File: B217.png Graphic file (type bmp)
+<B217.png>
+ <a1,fr216>
+File: B218.png Graphic file (type bmp)
+<B218.png>
+ <a1,fr217>
+File: B219.png Graphic file (type bmp)
+<B219.png>
+ <a1,fr218>
+File: B220.png Graphic file (type bmp)
+<B220.png>
+ <a1,fr219>
+File: B221.png Graphic file (type bmp)
+<B221.png>
+ <a1,fr220>
+File: B222.png Graphic file (type bmp)
+<B222.png>
+ <a1,fr221>
+File: B223.png Graphic file (type bmp)
+<B223.png>
+ <a1,fr222>
+File: B224.png Graphic file (type bmp)
+<B224.png>
+ <a1,fr223>
+File: B225.png Graphic file (type bmp)
+<B225.png>
+ <a1,fr224>
+File: B226.png Graphic file (type bmp)
+<B226.png>
+ <a1,fr225>
+File: B227.png Graphic file (type bmp)
+<B227.png>
+ <a1,fr226>
+File: B228.png Graphic file (type bmp)
+<B228.png>
+ <a1,fr227>
+File: B229.png Graphic file (type bmp)
+<B229.png>
+ <a1,fr228>
+File: B230.png Graphic file (type bmp)
+<B230.png>
+ <a1,fr229>
+File: B231.png Graphic file (type bmp)
+<B231.png>
+ <a1,fr230>
+File: B232.png Graphic file (type bmp)
+<B232.png>
+ <a1,fr231>
+File: B233.png Graphic file (type bmp)
+<B233.png>
+ <a1,fr232>
+File: B234.png Graphic file (type bmp)
+<B234.png>
+ <a1,fr233>
+File: B235.png Graphic file (type bmp)
+<B235.png>
+ <a1,fr234>
+File: B236.png Graphic file (type bmp)
+<B236.png>
+ <a1,fr235>
+File: B237.png Graphic file (type bmp)
+<B237.png>
+ <a1,fr236>
+File: B238.png Graphic file (type bmp)
+<B238.png>
+ <a1,fr237>
+File: B239.png Graphic file (type bmp)
+<B239.png>
+ <a1,fr238>
+File: B240.png Graphic file (type bmp)
+<B240.png>
+ <a1,fr239>
+File: B241.png Graphic file (type bmp)
+<B241.png>
+ <a1,fr240>
+File: B242.png Graphic file (type bmp)
+<B242.png>
+ <a1,fr241>
+File: B243.png Graphic file (type bmp)
+<B243.png>
+ <a1,fr242>
+File: B244.png Graphic file (type bmp)
+<B244.png>
+ <a1,fr243>
+File: B245.png Graphic file (type bmp)
+<B245.png>
+ <a1,fr244>
+File: B246.png Graphic file (type bmp)
+<B246.png>
+ <a1,fr245>
+File: B247.png Graphic file (type bmp)
+<B247.png>
+ <a1,fr246>
+File: B248.png Graphic file (type bmp)
+<B248.png>
+ <a1,fr247>
+File: B249.png Graphic file (type bmp)
+<B249.png>
+ <a1,fr248>
+File: B250.png Graphic file (type bmp)
+<B250.png>
+ <a1,fr249>
+File: B251.png Graphic file (type bmp)
+<B251.png>
+ <a1,fr250>
+File: B252.png Graphic file (type bmp)
+<B252.png>
+ <a1,fr251>
+File: B253.png Graphic file (type bmp)
+<B253.png>
+ <a1,fr252>
+File: B254.png Graphic file (type bmp)
+<B254.png>
+ <a1,fr253>
+File: B255.png Graphic file (type bmp)
+<B255.png>
+ <a1,fr254>
+File: B256.png Graphic file (type bmp)
+<B256.png>
+ <a1,fr255>
+File: B257.png Graphic file (type bmp)
+<B257.png>
+ <a1,fr256>
+File: B258.png Graphic file (type bmp)
+<B258.png>
+ <a1,fr257>
+File: B259.png Graphic file (type bmp)
+<B259.png>
+ <a1,fr258>
+File: B260.png Graphic file (type bmp)
+<B260.png>
+ <a1,fr259>
+File: B261.png Graphic file (type bmp)
+<B261.png>
+ <a1,fr260>
+File: B262.png Graphic file (type bmp)
+<B262.png>
+ <a1,fr261>
+File: B263.png Graphic file (type bmp)
+<B263.png>
+ <a1,fr262>
+File: B264.png Graphic file (type bmp)
+<B264.png>
+ <a1,fr263>
+File: B265.png Graphic file (type bmp)
+<B265.png>
+ <a1,fr264>
+File: B266.png Graphic file (type bmp)
+<B266.png>
+ <a1,fr265>
+File: B267.png Graphic file (type bmp)
+<B267.png>
+ <a1,fr266>
+File: B268.png Graphic file (type bmp)
+<B268.png>
+ <a1,fr267>
+File: B269.png Graphic file (type bmp)
+<B269.png>
+ <a1,fr268>
+File: B270.png Graphic file (type bmp)
+<B270.png>
+ <a1,fr269>
+File: B271.png Graphic file (type bmp)
+<B271.png>
+ <a1,fr270>
+File: B272.png Graphic file (type bmp)
+<B272.png>
+ <a1,fr271>
+File: B273.png Graphic file (type bmp)
+<B273.png>
+ <a1,fr272>
+File: B274.png Graphic file (type bmp)
+<B274.png>
+ <a1,fr273>
+File: B275.png Graphic file (type bmp)
+<B275.png>
+ <a1,fr274>
+File: B276.png Graphic file (type bmp)
+<B276.png>
+ <a1,fr275>
+File: B277.png Graphic file (type bmp)
+<B277.png>
+ <a1,fr276>
+File: B278.png Graphic file (type bmp)
+<B278.png>
+ <a1,fr277>
+File: B279.png Graphic file (type bmp)
+<B279.png>
+ <a1,fr278>
+File: B280.png Graphic file (type bmp)
+<B280.png>
+ <a1,fr279>
+File: B281.png Graphic file (type bmp)
+<B281.png>
+ <a1,fr280>
+File: B282.png Graphic file (type bmp)
+<B282.png>
+ <a1,fr281>
+File: B283.png Graphic file (type bmp)
+<B283.png>
+ <a1,fr282>
+File: B284.png Graphic file (type bmp)
+<B284.png>
+ <a1,fr283>
+File: B285.png Graphic file (type bmp)
+<B285.png>
+ <a1,fr284>
+File: B286.png Graphic file (type bmp)
+<B286.png>
+ <a1,fr285>
+File: B287.png Graphic file (type bmp)
+<B287.png>
+ <a1,fr286>
+File: B288.png Graphic file (type bmp)
+<B288.png>
+ <a1,fr287>
+File: B289.png Graphic file (type bmp)
+<B289.png>
+ <a1,fr288>
+File: B290.png Graphic file (type bmp)
+<B290.png>
+ <a1,fr289>
+File: B291.png Graphic file (type bmp)
+<B291.png>
+ <a1,fr290>
+File: B292.png Graphic file (type bmp)
+<B292.png>
+ <a1,fr291>
+File: B293.png Graphic file (type bmp)
+<B293.png>
+ <a1,fr292>
+File: B294.png Graphic file (type bmp)
+<B294.png>
+ <a1,fr293>
+File: B295.png Graphic file (type bmp)
+<B295.png>
+ <a1,fr294>
+File: B296.png Graphic file (type bmp)
+<B296.png>
+ <a1,fr295>
+File: B297.png Graphic file (type bmp)
+<B297.png>
+ <a1,fr296>
+File: B298.png Graphic file (type bmp)
+<B298.png>
+ <a1,fr297>
+File: B299.png Graphic file (type bmp)
+<B299.png>
+ <a1,fr298>
+File: B300.png Graphic file (type bmp)
+<B300.png>
+ <a1,fr299>
+File: B301.png Graphic file (type bmp)
+<B301.png>
+ <a1,fr300>
+File: B302.png Graphic file (type bmp)
+<B302.png>
+ <a1,fr301>
+File: B303.png Graphic file (type bmp)
+<B303.png>
+ <a1,fr302>
+File: B304.png Graphic file (type bmp)
+<B304.png>
+ <a1,fr303>
+File: B305.png Graphic file (type bmp)
+<B305.png>
+ <a1,fr304>
+File: B306.png Graphic file (type bmp)
+<B306.png>
+ <a1,fr305>
+File: B307.png Graphic file (type bmp)
+<B307.png>
+ <a1,fr306>
+File: B308.png Graphic file (type bmp)
+<B308.png>
+ <a1,fr307>
+File: B309.png Graphic file (type bmp)
+<B309.png>
+ <a1,fr308>
+File: B310.png Graphic file (type bmp)
+<B310.png>
+ <a1,fr309>
+File: B311.png Graphic file (type bmp)
+<B311.png>
+ <a1,fr310>
+File: B312.png Graphic file (type bmp)
+<B312.png>
+ <a1,fr311>
+File: B313.png Graphic file (type bmp)
+<B313.png>
+ <a1,fr312>
+File: B314.png Graphic file (type bmp)
+<B314.png>
+ <a1,fr313>
+File: B315.png Graphic file (type bmp)
+<B315.png>
+ <a1,fr314>
+File: B316.png Graphic file (type bmp)
+<B316.png>
+ <a1,fr315>
+File: B317.png Graphic file (type bmp)
+<B317.png>
+ <a1,fr316>
+File: B318.png Graphic file (type bmp)
+<B318.png>
+ <a1,fr317>
+File: B319.png Graphic file (type bmp)
+<B319.png>
+ <a1,fr318>
+File: B320.png Graphic file (type bmp)
+<B320.png>
+ <a1,fr319>
+File: B321.png Graphic file (type bmp)
+<B321.png>
+ <a1,fr320>
+Overfull \hbox (14.78856pt too wide) in paragraph at lines 1113--1115
+ [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[23] [24] [25]
+File: 1000_1.png Graphic file (type bmp)
+<1000_1.png>
+File: v-1000.png Graphic file (type bmp)
+<v-1000.png>
+ [26] [27] [28] [29]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1308.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1308.
+
+(./Gerschgorin-plt.py [30]) (./5_pic.py [31] [32] [33]) (./fin_n.py [34] [35] [36]) [37] (./n_yes.py [38] [39] [40]) (./n_no.py [41] [42] [43] [44]) (./2000_paintzhubo.py [45] [46] [47] [48] [49]) (./2000_jiei.py)
+
+LaTeX Font Warning: Command \normalsize invalid in math mode on input line 1385.
+
+
+Overfull \hbox (21.65086pt too wide) detected at line 1394
+[]
+ []
+
+[50] [51]
+Overfull \hbox (40.7024pt too wide) detected at line 1474
+[][] \OT1/cmr/m/n/10.95 = 0[]\OML/cmm/m/it/10.95 D[][]
+ []
+
+[52]
+Missing character: There is no 、 in font [lmroman10-regular]:mapping=tex-text;!
+ [53]
+Overfull \hbox (21.45277pt too wide) detected at line 1548
+[][]
+ []
+
+[54]
+Missing character: There is no 、 in font [lmroman10-regular]:mapping=tex-text;!
+ [55]
+Overfull \hbox (21.33702pt too wide) detected at line 1597
+\OML/cmm/m/it/10.95 k [][] [] \OT1/cmr/m/n/10.95 = \OML/cmm/m/it/10.95 k []
+ []
+
+
+Overfull \hbox (39.407pt too wide) detected at line 1619
+[][]
+ []
+
+[56]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1643.
+ [57]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1643.
+ (./work2.aux
+
+Package pdfbase Warning: Rerun to get internal references right!
+
+)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1643.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1643.
+Package rerunfilecheck Info: File `work2.out' has not changed.
+(rerunfilecheck)             Checksum: 22CD788EDE0E2435E7CF2D387B948442;5376.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1643.
+ )
+(\end occurred inside a group at level 3)
+
+### simple group (level 3) entered at line 1207 ({)
+### simple group (level 2) entered at line 635 ({)
+### simple group (level 1) entered at line 166 ({)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 29148 strings out of 481370
+ 533712 string characters out of 5926566
+ 1327079 words of memory out of 5000000
+ 45148 multiletter control sequences out of 15000+600000
+ 551315 words of font info for 145 fonts, out of 8000000 for 9000
+ 264 hyphenation exceptions out of 8191
+ 56i,15n,97p,932b,2443s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on work2.pdf (59 pages).

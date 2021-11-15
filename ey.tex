@@ -1,0 +1,60 @@
+\documentclass[11pt,openany]{article}
+\def\dfrac{\displaystyle\frac}
+\def\dlim{\displaystyle\lim}
+\def\dsum{\displaystyle\sum}
+\textwidth=16truecm \textheight=25.5truecm \setcounter{page}{1}
+%\renewcommand{\baselinestretch}{1.1}
+%\renewcommand{\arraystretch}{1.2}
+\newcommand{\adots}{\mathinner{\mkern2mu％\raisebox{.1em}{.}
+\mkern2mu\raisebox{.4em}{.}％\mkern2mu\raisebox{.7em}{.}\mkern1mu}}
+\def\longequal{=\joinrel=\joinrel=\joinrel=\joinrel=\joinrel=\joinrel=\joinrel=}
+% 注意win2000,没有 simsun,　最好到网上找一个。一些字体是office2000带的
+\newcommand{\song}{\CJKfamily{song}}% 宋体(Windows自带simsun.ttf)
+\newcommand{\fs}{\CJKfamily{fs}}% 仿宋体 (Windows自带simfs.ttf)
+\newcommand{\kai}{\CJKfamily{kai}}% 楷体(Windows自带simkai.ttf)
+\newcommand{\hei}{\CJKfamily{hei}}% 黑体(Windows自带simhei.ttf)
+\newcommand{\li}{\CJKfamily{li}}% 隶书(Windows自带simli.ttf)
+\newcommand{\you}{\CJKfamily{you}}% 幼圆(Windows自带simyou.ttf)
+\newcommand{\chuhao}{\fontsize{42pt}{\baselineskip}\selectfont}% 字号设置
+\newcommand{\xiaochuhao}{\fontsize{36pt}{\baselineskip}\selectfont} % 字号设置
+\newcommand{\yihao}{\fontsize{28pt}{\baselineskip}\selectfont}% 字号设置
+\newcommand{\erhao}{\fontsize{21pt}{\baselineskip}\selectfont}% 字号设置
+\newcommand{\xiaoerhao}{\fontsize{18pt}{\baselineskip}\selectfont}% 字号设置
+\newcommand{\sanhao}{\fontsize{15.75pt}{\baselineskip}\selectfont}% 字号设置
+\newcommand{\sihao}{\fontsize{14pt}{\baselineskip}\selectfont}% 字号设置
+\newcommand{\xiaosihao}{\fontsize{12pt}{\baselineskip}\selectfont}% 字号设置
+\newcommand{\wuhao}{\fontsize{10.5pt}{\baselineskip}\selectfont}% 字号设置
+\newcommand{\xiaowuhao}{\fontsize{9pt}{\baselineskip}\selectfont}% 字号设置
+\newcommand{\liuhao}{\fontsize{7.875pt}{\baselineskip}\selectfont}% 字号设置
+\newcommand{\qihao}{\fontsize{5.25pt}{\baselineskip}\selectfont}% 字号设置
+%\setlength{\parskip}{3pt plus1pt minus1pt}
+% 中文支持宏包
+\usepackage{CJK}
+\usepackage{pinyin}
+\usepackage{color}
+\usepackage{colortbl}
+\usepackage{latexsym,amsfonts,amssymb}
+\parindent=2em
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+\begin{CJK*}{GBK}{song}
+\hoffset-1.5cm\voffset-2.5cm
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\title{\bf 俄文输入}
+
+\font\fontWCA=wncyr10
+{\fontWCA
+\begin{center}
+    \char'013
+Q
+
+\end{center}}
+
+上面的表格说明当S,C,Z,K或s,c,z,k之后紧接着H或h，以及T或t之后紧跟着S或s时，表示的是双字符所代表的
+俄文字母，而不是单个字母所表示的俄文字母，如果需要这些单字符所表示的俄文字母，就必须用$\backslash$/符号进行
+分隔。
+
+
+\newpage
+\end{CJK*}
+\end{document}

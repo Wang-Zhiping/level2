@@ -169,19 +169,19 @@ int main(){
     double tm = 200;
     double tem[5*20001] = {0};
 
-    // 正向求Q
+    // 姝ｅ悜姹俀
     fp = fopen( "fig3_4.bin" , "w" );
     improvedeuler(Mu,tem,0,1000,1.e-3,1,1,tm,0.01,fp);
     fclose(fp);
 
 
     for (int i = 0; i<3;i++){
-        // 反向求P
+        // 鍙嶅悜姹侾
         fp = fopen( "fig3_3.bin" , "w" );
-        improvedeuler3(Mu,tem,0,1000,0,1,7/12.0,tm,0.01,fp);
+        improvedeuler3(Mu,tem,0,1000,0,1,(Lambda+0.1*Mu)/(0.6*Mu),tm,0.01,fp);
         fclose(fp);
 
-        // 正向求Q
+        // 姝ｅ悜姹俀
 
         fp = fopen( "fig3_4.bin" , "w" );
         improvedeuler2(Mu,tem,0,2000./3,2000./3,1,1,tm,0.01,fp);
@@ -201,7 +201,7 @@ int main(){
         if (I<min) min=I;
     }
     min = fabs(min);
-    printf("%f,%f,%f\n",omega,Mu,min);
+    printf("%f,%f,%f,%f\n",omega,Mu,min,(Lambda+0.1*Mu)/(0.6*Mu));
 
     fwrite(&Mu, sizeof(double) , 1, fp2 );
     fwrite(&min, sizeof(double) , 1, fp2 );

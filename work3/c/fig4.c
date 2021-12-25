@@ -175,7 +175,7 @@ int main(){
     fclose(fp);
 
 
-    for (int i = 0; i<3;i++){
+    for (int i = 0; i<10;i++){
         // 鍙嶅悜姹侾
         fp = fopen( "fig3_3.bin" , "w" );
         improvedeuler3(Mu,tem,0,1000,0,1,(Lambda+0.1*Mu)/(0.6*Mu),tm,0.01,fp);
